@@ -1,14 +1,14 @@
-goals as of 28 June 2017
+_goals as of 28 June 2017_
 
-### immediate #TODOs
+### immediate #TODOs (to be assessed at end of July)
 * (loosely) track time spent on card work vs. “learning” time related to card work i.e. if card work requires some time up-front to learn about whatever technology is being used that is the latter whereas a card that I can just pick up and start is the former
 * identify areas where I can improve i.e. if I pick up a card and can’t start it without help identify where the gaps in my knowledge are (related to the above learning vs. card work)
 * take the gaps listed above as things to address on Fridays and start tracking as shorter-term goals
 * keep an eye out for opportunities to go solo on card work especially if it requires new skills/technology for me i.e. if the card calls for something I’m really sure of, prefer to talk it over with Troy, spend some time on my own, and then come back together to see how it’s going over going straight for pairing
 
-### six weeks (due August 2017)
+### eight weeks (due end of August 2017)
 * generate targeted SMART (Specific Measurable Achievable Relevant Time-boxed) goals around advancement to mid-level by the end of the year
-* set aside Friday time to start checking out the “place to start” web security thing--and also remember to look at this document on Fridays when there isn’t something I have explicitly planned to do
+* set aside Friday time to start checking out the “place to start” web security thing--and also remember to look at this document on Fridays when there isn’t something I have explicitly planned to do _this could be helpful for stuff we're thinking about now on VIP re: security of the dashboard especially in relation to web-based file uploads_
 
 ### six months (due December 2017)
 * progress into mid-level developer role
@@ -20,6 +20,8 @@ goals as of 28 June 2017
 ---
 
 ---
+
+_here be dragons: aka here's older stuff before I started orienting my goals toward leveling up specifically
 
 31 May 2017
 
