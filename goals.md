@@ -21,7 +21,7 @@ _goals as of 28 June 2017_
 
 ---
 
-_here be dragons: aka here's older stuff before I started orienting my goals toward leveling up specifically
+_here be dragons: aka here's older stuff before I started orienting my goals toward leveling up specifically_
 
 31 May 2017
 
