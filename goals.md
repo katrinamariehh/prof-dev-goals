@@ -1,14 +1,20 @@
-_goals as of 28 June 2017_
 
-### immediate #TODOs (to be assessed at end of July)
-* (loosely) track time spent on card work vs. “learning” time related to card work i.e. if card work requires some time up-front to learn about whatever technology is being used that is the latter whereas a card that I can just pick up and start is the former
+### things to think about when looking for goals to set (moved fromimmediate #TODOs)
 * identify areas where I can improve i.e. if I pick up a card and can’t start it without help identify where the gaps in my knowledge are (related to the above learning vs. card work)
 * take the gaps listed above as things to address on Fridays and start tracking as shorter-term goals
-* keep an eye out for opportunities to go solo on card work especially if it requires new skills/technology for me i.e. if the card calls for something I’m really sure of, prefer to talk it over with Troy, spend some time on my own, and then come back together to see how it’s going over going straight for pairing
+* keep an eye out for opportunities to go solo on card work especially if it requires new skills/technology for me i.e. if the card calls for something I’m really sure of, prefer to talk it over with a more senior developer, spend some time on my own, and then come back together to see how it’s going over going straight for pairing
+
+_goals as of 24 July 2017; updated based on feedback from Wes at Dev/Partnerships retreat_
+
+### immediate #TODOs
+* spend Friday time working with Reagent/Clojurescript and Datomic--start by going back to work done with Dave on the retreat, but locate tutorials for each (I think I came across something called "Day of Datomic" that was a bunch of intro videos)
+* make a list of potential project ideas to make something small with Reagent and Datomic--something helpful (personally or for DW) or something basic like a todo app if nothing comes up
+* ~~(loosely) track time spent on card work vs. “learning” time related to card work i.e. if card work requires some time up-front to learn about whatever technology is being used that is the latter whereas a card that I can just pick up and start is the former~~
 
 ### eight weeks (due end of August 2017)
-* generate targeted SMART (Specific Measurable Achievable Relevant Time-boxed) goals around advancement to mid-level by the end of the year
-* set aside Friday time to start checking out the “place to start” web security thing--and also remember to look at this document on Fridays when there isn’t something I have explicitly planned to do _this could be helpful for stuff we're thinking about now on VIP re: security of the dashboard especially in relation to web-based file uploads_
+* get comfortable enough with Reagent and Datomic to jump in to Turbovote on next project rotation in September (outlined in immediate #TODOs)
+* ~~set aside Friday time to start checking out the “place to start” web security thing--and also remember to look at this document on Fridays when there isn’t something I have explicitly planned to do _this could be helpful for stuff we're thinking about now on VIP re: security of the dashboard especially in relation to web-based file uploads_~~ _setting this aside for now--may be helpful in the future but I'd like to focus on Reagent and Datomic more immediately_
+* ~~generate targeted SMART (Specific Measurable Achievable Relevant Time-boxed) goals around advancement to mid-level by the end of the year~~ _see goals re: Reagent and Datomic above_
 
 ### six months (due December 2017)
 * progress into mid-level developer role
