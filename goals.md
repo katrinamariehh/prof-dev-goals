@@ -14,6 +14,7 @@ _goals as of 24 July 2017; updated based on feedback from Wes at Dev/Partnership
 ### eight weeks (due end of August 2017)
 * get comfortable enough with Reagent and Datomic to jump in to Turbovote on next project rotation in September (outlined in immediate #TODOs)
 * ~~set aside Friday time to start checking out the “place to start” web security thing--and also remember to look at this document on Fridays when there isn’t something I have explicitly planned to do _this could be helpful for stuff we're thinking about now on VIP re: security of the dashboard especially in relation to web-based file uploads_~~ _setting this aside for now--may be helpful in the future but I'd like to focus on Reagent and Datomic more immediately_
+* slightly ambitious: get Krakenstein up and running on my machine (check with Wes re: Http-API changes and tap Dave for help)
 * ~~generate targeted SMART (Specific Measurable Achievable Relevant Time-boxed) goals around advancement to mid-level by the end of the year~~ _see goals re: Reagent and Datomic above_
 
 ### six months (due December 2017)
