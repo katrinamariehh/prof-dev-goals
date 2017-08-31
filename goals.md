@@ -1,24 +1,27 @@
 
-### things to think about when looking for goals to set (moved fromimmediate #TODOs)
-* identify areas where I can improve i.e. if I pick up a card and can’t start it without help identify where the gaps in my knowledge are (related to the above learning vs. card work)
+### things to think about when looking for goals to set
+* identify areas where I can improve i.e. if I pick up a card and can’t start it without help identify where the gaps in my knowledge are
 * take the gaps listed above as things to address on Fridays and start tracking as shorter-term goals
-* keep an eye out for opportunities to go solo on card work especially if it requires new skills/technology for me i.e. if the card calls for something I’m really sure of, prefer to talk it over with a more senior developer, spend some time on my own, and then come back together to see how it’s going over going straight for pairing
+* keep an eye out for opportunities to go solo on card work especially if it requires new skills/technology for me i.e. if the card calls for something I’m not really sure of, prefer to talk it over with a more senior developer, spend some time on my own, and then come back together to see how it’s going over going straight for pairing
 
-_goals as of 24 July 2017; updated based on feedback from Wes at Dev/Partnerships retreat_
+#### things to think about/consider based on peer feedback
+* what can I do to position myself to better work as the more senior developer on a team with a junior developer?
+* keep an eye out for the first bullet point above -- filling in knowledge gaps that will allow me to pick up any arbitrary card is another area that could use improvement
+
+_goals as of 31 August 2017; updated based on new rotation schedule_
 
 ### immediate #TODOs
-* spend Friday time working with Reagent/Clojurescript and Datomic--start by going back to work done with Dave on the retreat, but locate tutorials for each (I think I came across something called "Day of Datomic" that was a bunch of intro videos)
-* make a list of potential project ideas to make something small with Reagent and Datomic--something helpful (personally or for DW) or something basic like a todo app if nothing comes up
-* ~~(loosely) track time spent on card work vs. “learning” time related to card work i.e. if card work requires some time up-front to learn about whatever technology is being used that is the latter whereas a card that I can just pick up and start is the former~~
+* continue to spend Friday time working with re-frame -- mostly comfortable with starter project, getting started on a project with Marla or getting started on GTTP/Early Vote Site Tool should solidify understanding
+* approach rewrite of GTTP/Early Vote Site Tool as opportunity to demonstrate competency with re-frame
+* check in with Marla on teaming up on a project (potentially using re-frame and Datomic)
 
-### eight weeks (due end of August 2017)
-* get comfortable enough with Reagent and Datomic to jump in to Turbovote on next project rotation in September (outlined in immediate #TODOs)
-* ~~set aside Friday time to start checking out the “place to start” web security thing--and also remember to look at this document on Fridays when there isn’t something I have explicitly planned to do _this could be helpful for stuff we're thinking about now on VIP re: security of the dashboard especially in relation to web-based file uploads_~~ _setting this aside for now--may be helpful in the future but I'd like to focus on Reagent and Datomic more immediately_
+### eight weeks (due end of October 2017)
+* get comfortable enough with Reagent and Datomic to jump in to Turbovote on next project rotation in ~~September~~ November
 * slightly ambitious: get Krakenstein up and running on my machine (check with Wes re: Http-API changes and tap Dave for help)
-* ~~generate targeted SMART (Specific Measurable Achievable Relevant Time-boxed) goals around advancement to mid-level by the end of the year~~ _see goals re: Reagent and Datomic above_
 
-### six months (due December 2017)
+### six months (due February 2017)
 * progress into mid-level developer role
+* break here for maternity leave
 
 ### six years (due 2023)
 * consistently give back to the tech community in some kind of concrete way (attending meetups, seeking out opportunities to mentor women developers, facilitate *Bridge workshops)
