@@ -8,16 +8,16 @@
 * what can I do to position myself to better work as the more senior developer on a team with a junior developer?
 * keep an eye out for the first bullet point above -- filling in knowledge gaps that will allow me to pick up any arbitrary card is another area that could use improvement
 
-_goals as of 31 August 2017; updated based on new rotation schedule_
+_goals as of 3 October 2017_
 
 ### immediate #TODOs
-* continue to spend Friday time working with re-frame -- mostly comfortable with starter project, getting started on a project with Marla or getting started on GTTP/Early Vote Site Tool should solidify understanding
-* approach rewrite of GTTP/Early Vote Site Tool as opportunity to demonstrate competency with re-frame
-* check in with Marla on teaming up on a project (potentially using re-frame and Datomic)
+* find a concrete tutorial for getting starting with Datomic locally
+* tackle a project plan for building a website with [NASA data](https://www.youtube.com/watch?v=6wrEZwX_5Ak) using Datomic and re-frame; focus on what parts of approaching something large on my own seem daunting and where I am missing skills or what parts I don't understand
+* ~~approach rewrite of GTTP/Early Vote Site Tool as opportunity to demonstrate competency with re-frame~~ this is definitely happening; EVS work is up and running, I'm getting a lot of experience with re-frame out of it
 
 ### eight weeks (due end of October 2017)
 * get comfortable enough with Reagent and Datomic to jump in to Turbovote on next project rotation in ~~September~~ November
-* slightly ambitious: get Krakenstein up and running on my machine (check with Wes re: Http-API changes and tap Dave for help)
+* slightly ambitious: get Krakenstein up and running on my machine (check with Wes re: Http-API changes and tap Dave for help); the goal for this is to be started before all-staff in November so I can ask for in-person help as necessary
 
 ### six months (due February 2017)
 * progress into mid-level developer role
