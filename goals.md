@@ -8,16 +8,16 @@
 * what can I do to position myself to better work as the more senior developer on a team with a junior developer?
 * keep an eye out for the first bullet point above -- filling in knowledge gaps that will allow me to pick up any arbitrary card is another area that could use improvement
 
-_goals as of 3 October 2017_
+_goals as of 31 October 2017_
 
 ### immediate #TODOs
-* find a concrete tutorial for getting starting with Datomic locally
-* tackle a project plan for building a website with [NASA data](https://www.youtube.com/watch?v=6wrEZwX_5Ak) using Datomic and re-frame; focus on what parts of approaching something large on my own seem daunting and where I am missing skills or what parts I don't understand
-* ~~approach rewrite of GTTP/Early Vote Site Tool as opportunity to demonstrate competency with re-frame~~ this is definitely happening; EVS work is up and running, I'm getting a lot of experience with re-frame out of it
+* ~~find a concrete tutorial for getting starting with Datomic locally~~ done!  Definitely making progress on this front
+* tackle a project plan for building a website with [NASA data](https://www.youtube.com/watch?v=6wrEZwX_5Ak) using Datomic and re-frame; focus on what parts of approaching something large on my own seem daunting and where I am missing skills or what parts I don't understand -- 10/31 I've been focusing on just re-frame and Datomic on this point, will be starting the project plan this week
 
-### eight weeks (due end of October 2017)
-* get comfortable enough with Reagent and Datomic to jump in to Turbovote on next project rotation in ~~September~~ November
-* slightly ambitious: get Krakenstein up and running on my machine (check with Wes re: Http-API changes and tap Dave for help); the goal for this is to be started before all-staff in November so I can ask for in-person help as necessary
+### eight weeks (due end of December 2017)
+* get comfortable enough with Reagent and Datomic to jump in to Turbovote on next project rotation in ~~September~~ November -- 10/31 this is going well!  The early vote site work is progressing well, I'll be doing a walkthrough of the project with Sean today that I'm hoping will help me solidify what I do and don't understand.
+* slightly ambitious: get Krakenstein up and running on my machine (check with Wes re: Http-API changes and tap Dave for help); the goal for this is to be started before all-staff in November so I can ask for in-person help as necessary -- this is on the backburner for now but I'm still hoping to get to it before all-staff.
+* implement project plan from immediate #TODO goal of doing something with Datomic/re-frame/cool NASA data.
 
 ### six months (due February 2017)
 * progress into mid-level developer role
