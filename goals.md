@@ -5,19 +5,24 @@
 * keep an eye out for opportunities to go solo on card work especially if it requires new skills/technology for me i.e. if the card calls for something I’m not really sure of, prefer to talk it over with a more senior developer, spend some time on my own, and then come back together to see how it’s going over going straight for pairing
 
 #### things to think about/consider based on peer feedback
-* what can I do to position myself to better work as the more senior developer on a team with a junior developer?
+* ~~what can I do to position myself to better work as the more senior developer on a team with a junior developer?~~ I'm crossing this out for now; I'm the only Junior developer currently on the team and we aren't hiring any more at the moment -- I feel confident that this is the kind of thing that will come with experience more generally and not something I can concretely focus on right now
 * keep an eye out for the first bullet point above -- filling in knowledge gaps that will allow me to pick up any arbitrary card is another area that could use improvement
 
-_goals as of 31 October 2017_
+_goals as of 12 December 2017_
 
 ### immediate #TODOs
-* ~~find a concrete tutorial for getting starting with Datomic locally~~ done!  Definitely making progress on this front
-* tackle a project plan for building a website with [NASA data](https://www.youtube.com/watch?v=6wrEZwX_5Ak) using Datomic and re-frame; focus on what parts of approaching something large on my own seem daunting and where I am missing skills or what parts I don't understand -- 10/31 I've been focusing on just re-frame and Datomic on this point, will be starting the project plan this week
+* fill in knowledge gaps around Turbovote and the Democracy Works ecosystem; I think based on the ideas in the notes above that I feel pretty comfortable with a lot of the technical aspects of the Turbovote project and at this point the barriers are more domain knowledge-related.  I've starting documenting a glossary of the terms used in relation to Turbovote and voting in general as well as an outline of what repositories exist in our broader ecosystem and how they relate to one another to assist here
+* find videos/resources to get more comfortable with ideas behind clojure/functional programming in general (i.e. Simple Made Easy, Hammock-driven Development, etc.)
+* find plugins/tools/resources for getting more comfortable with Emacs -- I decided with the move to Turbovote to give Emacs/Cider a solid try to better facilitate working with other developers (especially Ben as lead on TV).  Pairing with him has definitely been helpful in this, but finding more tools and navigating around on my own on Fridays is helpful as well.
+* determine what if anything I can do to be ready to use Kubernetes once it's implemented; I don't want to focus too much time on making things work in Krakenstein, but I also want to make sure that Kubernetes is not some huge thing I have to tackle once I'm back from leave
+* ~~tackle a project plan for building a website with [NASA data](https://www.youtube.com/watch?v=6wrEZwX_5Ak) using Datomic and re-frame; focus on what parts of approaching something large on my own seem daunting and where I am missing skills or what parts I don't understand -- 10/31 I've been focusing on just re-frame and Datomic on this point, will be starting the project plan this week~~
 
-### eight weeks (due end of December 2017)
-* get comfortable enough with Reagent and Datomic to jump in to Turbovote on next project rotation in ~~September~~ November -- 10/31 this is going well!  The early vote site work is progressing well, I'll be doing a walkthrough of the project with Sean today that I'm hoping will help me solidify what I do and don't understand.
-* slightly ambitious: get Krakenstein up and running on my machine (check with Wes re: Http-API changes and tap Dave for help); the goal for this is to be started before all-staff in November so I can ask for in-person help as necessary -- this is on the backburner for now but I'm still hoping to get to it before all-staff.
-* implement project plan from immediate #TODO goal of doing something with Datomic/re-frame/cool NASA data.
+### eight weeks (due mid February 2018)
+* have baby
+* successfully use Emacs/Cider on the regular in Turbovote dev work
+* implement project plan from immediate #TODO goal of doing something with Datomic/re-frame/cool NASA data.  This is still a backburner/Friday option.  I collected a bunch of data but need to track someone down to help me with schema implementation
+* ~~get comfortable enough with Reagent and Datomic to jump in to Turbovote on next project rotation in November -- 10/31 this is going well!  The early vote site work is progressing well, I'll be doing a walkthrough of the project with Sean today that I'm hoping will help me solidify what I do and don't understand.~~ I've moved on to Turbovote and I'm feeling quite good about the prep work I've done up to this point
+* ~~slightly ambitious: get Krakenstein up and running on my machine (check with Wes re: Http-API changes and tap Dave for help); the goal for this is to be started before all-staff in November so I can ask for in-person help as necessary -- this is on the backburner for now but I'm still hoping to get to it before all-staff.~~ getting Krakenstein up was (fingers crossed) relatively pain-free
 
 ### six months (due February 2017)
 * progress into mid-level developer role
